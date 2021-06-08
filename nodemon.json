@@ -1,0 +1,10 @@
+{
+    "wath":[
+        "src"
+    ],
+    "ext": "ts",
+    "ingore":[
+        "src/**/*.spec.ts"
+    ],
+    "exec": "ts-node ./src/index.ts"
+}
